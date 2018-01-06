@@ -1,0 +1,18 @@
+#important numpy imports:
+import numpy as np
+from pandas import Series,DataFrame
+import pandas as pd
+
+#web imports:
+import webbrowser
+import pandas_datareader.data as web
+import datetime
+
+
+#plotting imports:
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inlin
+
+#other imports:
+from numpy.random import randn
